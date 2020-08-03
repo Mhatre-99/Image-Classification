@@ -1,4 +1,1 @@
-# Image-Classification
-The data was taken from kaggle.com
-It consists of different images of forests, buildings,streets, sea, glaciers, mountains.
-I've used CNN to classify the images imto their respective categories.
+The project aims to classify various images into their respective categories using CNN. These images include forests, buildings, streets, sea, glaciers and mountains.The data is taken from kaggle.com
